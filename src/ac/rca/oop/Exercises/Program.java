@@ -1,3 +1,6 @@
+import java.io.BufferedReader;
+import java.io.FileReader;
+
 public static void main(String[] args) {
     int[] scores = new int[3];
     scores[0] = 10;
